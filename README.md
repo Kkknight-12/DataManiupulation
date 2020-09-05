@@ -1,1 +1,1 @@
-# This folder contain file of data manipulation, wrangling
+# This folder contain files of data manipulation, wrangling
